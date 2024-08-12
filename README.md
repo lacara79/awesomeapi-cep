@@ -3,7 +3,7 @@
 # API de consulta de CEP do Brasil
 Base de dados IBGE com latitude e longitude
 
-## Exemplo de uso
+## Exemplo de uso 
 
 ```
 curl https://cep.awesomeapi.com.br/json/05424020
